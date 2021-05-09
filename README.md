@@ -5,7 +5,9 @@ The purpose of this analysis was to determine whether a surf and ice cream shop 
 
 
 ##Results
-
+https://github.com/stevenyouv/surfs_up/blob/main/Resources/June_Temps.png https://github.com/stevenyouv/surfs_up/blob/main/Resources/Dec_Temps.png
 
 
 ##Summary
+
+https://github.com/stevenyouv/surfs_up/blob/main/Resources/June_prcp.png https://github.com/stevenyouv/surfs_up/blob/main/Resources/Dec_prcp.png
