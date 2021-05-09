@@ -5,9 +5,13 @@ The purpose of this analysis was to determine whether a surf and ice cream shop 
 
 
 ##Results
-https://github.com/stevenyouv/surfs_up/blob/main/Resources/June_Temps.png https://github.com/stevenyouv/surfs_up/blob/main/Resources/Dec_Temps.png
+
+![June_Temps](https://user-images.githubusercontent.com/78937719/117561442-8c2a6300-b05c-11eb-84dd-dd9c98831f45.png) ![Dec_Temps](https://user-images.githubusercontent.com/78937719/117561446-96e4f800-b05c-11eb-8dac-11153bcded34.png)
+
 
 
 ##Summary
 
-https://github.com/stevenyouv/surfs_up/blob/main/Resources/June_prcp.png https://github.com/stevenyouv/surfs_up/blob/main/Resources/Dec_prcp.png
+
+![June_prcp](https://user-images.githubusercontent.com/78937719/117561449-9a787f00-b05c-11eb-8328-ebb9406833b5.png)![Dec_prcp](https://user-images.githubusercontent.com/78937719/117561453-9c424280-b05c-11eb-8ab9-0ad08ce045cc.png)
+ 
