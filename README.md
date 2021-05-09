@@ -1,10 +1,10 @@
 # surfs_up
 
-##Overview
+## Overview
 The purpose of this analysis was to determine whether a surf and ice cream shop business is sustainable year round in Oahu.  In order to determine this, temperature data was retrieved for the months of June and December.  This was completed by using Python, Pandas functions and methods, and SQLAlchemy to take the measurements from the hawaii.sqlite database to retrieve all temperate data for the months of June and December to convert into a list, create a dataframe, and then generate teh summary statistics for both months.  
 
 
-##Results
+## Results
 
 As you can see by the tables below, the temperature data in both months are very similar with small variances.  Some of the temperature differences between the two months are:
 - June has a slightly higher average temperature at nearly 75 degrees versus the 71 degrees in December
@@ -15,7 +15,7 @@ As you can see by the tables below, the temperature data in both months are very
 
 
 
-##Summary
+## Summary
 If only looking at temperature data for the months of June and December to determine if the surf and ice crea shop can be sustainable in Oahu yearround, it can be concluded that the temperature stays warm enough year round to support this.  
 
 Other factors that can be subject to analysis include precipitation year round.  Below are the measurements of June and December pulled from the same hawaii.sqlite database.  The average rainfall in the two months doesn't differ too much and if only looking at these two months,  it can be determined that precipitation levels won't vary enough from month to month to affect the sustainablilty of opening a surf and ice cream shop year rounnd. 
